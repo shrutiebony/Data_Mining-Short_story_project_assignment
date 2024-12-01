@@ -2,6 +2,7 @@
 #### Research Paper: https://arxiv.org/pdf/2407.12390
 #### Medium Article: https://medium.com/@shrutiebony/enhancing-facial-expression-recognition-with-dual-direction-attention-networks-7be155dbfacc
 #### Slide Deck Link: https://www.slideshare.net/slideshow/enhancing-facial-expression-recognition-with-ddamfn-pptx/273746973
+#### Youtube Video: https://www.youtube.com/watch?v=tfccY5c5RJA
 
 ## Abstract
 This project builds on the Dual-Direction Attention Mixed Feature Network (DDAMFN) architecture to improve facial expression recognition for the 7th ABAW Challenge at ECCV 2024. By leveraging multitask learning, the network simultaneously predicts:
